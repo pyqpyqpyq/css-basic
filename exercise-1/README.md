@@ -2,7 +2,7 @@
 
 ### 完成下列选择题，请将答案写到每题后面括号里
 
-1.在下列选择器中，哪一个代表 section class 里面的所有 title class? (D)
+1.在下列选择器中，哪一个代表 section class 里面的所有 title class? (A)
 
 A <lable>.section .title {}</lable>  
 B <lable>.section.title {}</lable>  
@@ -10,7 +10,7 @@ C <lable>.section, .title {}</lable>
 D <lable>.section > .title {}</lable>  
 
 
-2.在下列选择器中，哪一个代表 section class 内部紧邻的 title class? (A)
+2.在下列选择器中，哪一个代表 section class 内部紧邻的 title class? (D)
 
 A <lable>.section .title {}</lable>  
 B <lable>.section.title {}</lable>   
